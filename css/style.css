@@ -1,0 +1,44 @@
+header{
+	background-color: #444444;
+	color: white;
+	padding: 15px;
+	font-family: Arial;
+	font-size: 25px;
+}
+.subheader{
+	background: black;
+}
+footer{
+	background-color: black;
+	font-size: 15px;
+	font-family: Arial;
+	color: white;
+	padding: 10px;
+}
+h2{
+	font-weight: bold;
+}
+.mainImg{
+	border: 1px solid gray;
+	width: 100%;
+	height: auto; 
+}
+.img-responsive{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+.sideItem{
+	padding: 5px;
+}
+.sideItem img{
+	width: 100%;
+	height: auto; 
+	padding: 5px;
+}
+footer{
+	margin: 40px 0 0;
+}
+.footText{
+	text-align: center;
+}
